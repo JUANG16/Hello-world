@@ -1,2 +1,2 @@
 # Hello-world
-Otro repositorio
+Repositoris principal
