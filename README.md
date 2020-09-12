@@ -1,2 +1,2 @@
 # Hello-world
-Repositoris principal
+Repositorio principal
