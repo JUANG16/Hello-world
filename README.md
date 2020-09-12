@@ -1,2 +1,2 @@
 # Hello-world
-Hola Trarea principal de las actividades a realizar
+Tarea principal de las actividades a realizar
